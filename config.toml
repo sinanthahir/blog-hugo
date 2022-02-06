@@ -1,0 +1,80 @@
+baseURL = 'https://sinanthahir.github.io'
+languageCode = 'en-us'
+title = 'Sin(x)'
+theme = "hugo-theme-monochrome"
+
+[build]
+    writeStats = true
+
+[taxonomies]
+    category = "categories"
+    tags = "tags"
+    series = "series"
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[params]
+    footer = "Sinan Thahir © 2022"
+    enableZoomingJS = true
+    enableTOC = false
+    enableSiteSearch = true
+    enableMathJax = false
+    # Codeblock
+    usePrismJS = false
+    enablePrismJSLineNo = true
+    enableCodeCopy = true
+    # SEO
+    enableOpenGraph = true
+    enableTwitterCards = true
+    author = "sinan"
+    # Collapsible Menu
+    enableCollapsibleTOC = false
+    enableCollapsibleChangelogs = true
+
+[goldmark.renderer]
+unsafe= true
+
+[highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[[navbar]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+[[navbar]]
+    identifier = "timeline"
+    name = "Timeline"
+    url = "/timeline/"
+    weight = 2
+[[navbar]]
+    identifier = "bookshelf"
+    name = "Bookshelf"
+    url = "/bookshelf/"
+    weight = 3
+[[navbar]]
+    identifier = "works"
+    name = "Works"
+    url = "/works/"
+    weight = 4
+[[navbar]]
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/blogs/"
+    weight = 5
+[[navbar]]
+    identifier = "nerd-stuff"
+    name = "Nerd Stuff"
+    url = "/nerd-stuff"
+    weight = 6
