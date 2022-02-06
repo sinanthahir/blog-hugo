@@ -3,5 +3,5 @@
 	url = https://github.com/kaiiiz/hugo-theme-monochrome.git
 [submodule "public"]
 	path = public
-	url = https://github.com/sinanthahir/sinx.git
+	url = https://github.com/sinanthahir/sinanthahir.github.io.git
 	branch = main

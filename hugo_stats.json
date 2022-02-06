@@ -11,6 +11,7 @@
       "g",
       "h1",
       "h2",
+      "h3",
       "head",
       "header",
       "hr",
@@ -161,13 +162,14 @@
       "navbar",
       "navbar_btn",
       "navbar_sm",
+      "podcast",
       "search_btn",
       "search_menu",
       "search_menu_close_btn",
       "search_menu_input",
       "search_menu_results",
       "search_menu_wrapper",
-      "setup"
+      "setup--tech-bag"
     ]
   }
 }
