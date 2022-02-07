@@ -27,4 +27,8 @@ Indeed, during daily commutes!
 * [Indian Silicon Valley - Jivraj Singh Sachar](https://open.spotify.com/show/5HZ9y88I43ba7pO5S3K9nM)
 * [The Mallu Show - Rizwan Ramzan](https://open.spotify.com/show/0HwNbH4waHN5c3xaFr2TQO?si=444eb499c83c4258)
 
-{{< tweet user="sinanthahir" id="1490371468626391040" >}}
+### Favourite Anime & Series
+
+
+## About the Site
+>> The site was built using [Hugo](https://gohugo.io/), [Tailwind CSS](https://tailwindcss.com/), [PrismJS](https://github.com/PrismJS/prism)  and deployed on [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#user--organization-pages). All the theme design development was done by [Kai Zheng](https://github.com/kaiiiz).

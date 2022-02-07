@@ -3,7 +3,10 @@ author: "Sinan Thahir"
 title: "Business Metrics - Be the Unicorn"
 date: "2019-03-05"
 description: "What and How Business Metrices are selected ?"
-tags: "Business Analytics"
+tags: 
+- Business Analytics
+- Analytics
+- Data Science
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways. 
