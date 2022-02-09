@@ -3,11 +3,10 @@ title: 'Bachelor of Technology - Mechanical Engineering'
 weight: 2
 ---
 
-1. **Clean UI with small resources.** Monochrome has clean UI design and can remove unused resources in production environment.
-2. **Responsive layout.** Adapt to different viewpoint, from desktop to mobile.
-3. **Dark mode.** Low-light UI.
-4. **Multiple layouts built-in.** See [Demo](https://kaiiiz.github.io/hugo-theme-monochrome/layouts/demo/).
-5. **Nested navbar and Multilingual mode.** Make good use of hugo's well-designed structure.
-6. **Syntax Highlighting (with copy feature).** Integrate both server-side solution (Chroma, hugo built-in) and client-side solution (Prism.js, for someone who need more languages supported).
-7. **Site Search.** Powered by FlexSearch. 
-8. **SEO-friendly.** Easily change your author, description, keywords, open graph, twitter card meatdata.
+In the amidst of pandemic, I had graduate from [Rajadhani Institute of Engineering and Technology](https://riet.edu.in/) (RIET) affiliated under  [APJ Abdul Kalam Technological University](https://ktu.edu.in/) with a Bachelor's in Technology specialized in Mechanical Engineering (2017-2021 batch). Truly it was one of the most remarkable time, as i had exposed to new experiences.
+
+##### ~~Achievements~~ Happiness
+* Published a **Research Journal** (Paper) on **High-data Thermal Analysis** of *Designed and Stimulated Turbulent CPHE* [IRJET Volume:8 Issue: 7](https://www.irjet.net/archives/V8/i7/IRJET-V8I7245.pdf)
+* Represented our **Startup** in the [TieCon](https://tieconkerala.org/) 2019, South India's Largest Entrepreneur meet.
+* Have been the **Lead Designer** for the College Design Club and Event Committee and was the **Cover Designer** of *Pratheeka* annual magazine.
+* Have been the **Core Council** Member of the [IEDC](https://riet-iedc.in/), [MoE's IIC](https://www.mic.gov.in/) and was the **Executive** Member of [SAE India](https://saeindia.org/) - RIET chapter  

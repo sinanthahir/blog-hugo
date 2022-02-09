@@ -3,4 +3,7 @@ title: 'Research Analyst at Ecesis Technologies'
 weight: 1
 ---
 
-Joined [Ecesis Group](https://www.ecesistech.com/) Bpo Services as a Research Analyst. Involving in precision Comparative Market Analysis, BPO, REO and Property Evaluation of US Realtor and Mortgage Clients. 
+First Job, First Experience; Joined [Ecesis Group](https://www.ecesistech.com/) Bpo Services based on Trivandrum, Kerala as a Research Analyst. 
+* Involving in data precision **Comparative Market Analysis** of Portfolio.
+* **Broker Price Opinion** and **Property Evaluation** of US Realtor and Mortgage Clients.
+* Creating strategic *Pricing* and *Marketing* development oppurtunity for clients.

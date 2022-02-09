@@ -15,6 +15,7 @@ theme = "hugo-theme-monochrome"
     home = ["HTML", "RSS", "JSON"]
 
 [params]
+    favicon = "/img/favicon.ico"
     footer = "Sinan Thahir © 2022"
     enableZoomingJS = true
     enableTOC = false
