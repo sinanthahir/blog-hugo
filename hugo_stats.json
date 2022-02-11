@@ -174,17 +174,21 @@
     "ids": [
       "about-the-site",
       "achievements-happiness",
-      "afajfajb",
+      "conclusions-predictive-model",
       "content",
       "dark_mode_btn",
+      "experience-analysis-through-weather-data",
       "favourite-anime--series",
       "heay--im-sinan-thahir",
       "heay-alll",
+      "hypothesis",
       "itiha-2k18",
       "light_mode_btn",
+      "methodology",
       "navbar",
       "navbar_btn",
       "navbar_sm",
+      "objective",
       "podcast",
       "search_btn",
       "search_menu",
@@ -192,7 +196,10 @@
       "search_menu_input",
       "search_menu_results",
       "search_menu_wrapper",
-      "setup--tech-bag"
+      "see-the-results-",
+      "setup--tech-bag",
+      "space-x-landing-prediction-is-an-applied-data-science-capstone-project-done-as-part-of-ibm-data-science-certificationhttpswwwcourseraorgaccountaccomplishmentsprofessional-certhqzx8fq3kar4-program",
+      "winning-space-race-with-data-science"
     ]
   }
 }
