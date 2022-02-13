@@ -5,6 +5,7 @@ gallery_resources: "itiha2k18"
 bookcase_cover_src: 'cover/cover01.png'
 bookcase_cover_src_dark: 'cover/cover01.png'
 weight: 1000
+disqus: false
 ---
 
 ## Itiha 2k18

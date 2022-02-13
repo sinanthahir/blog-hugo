@@ -1,7 +1,7 @@
 ---
 author: "Sinan Thahir"
 title: "Business Metrics - Be the Unicorn"
-date: "2019-03-05"
+date: "2022-02-05"
 description: "What and How Business Metrices are selected ?"
 tags: 
 - Business Analytics

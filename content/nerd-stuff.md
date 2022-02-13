@@ -1,6 +1,7 @@
 ---
 title: 'Nerd Stuff'
 menu: navbar
+disqus: false
 ---
 
 ### Setup & Tech Bag

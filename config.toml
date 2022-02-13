@@ -2,6 +2,7 @@ baseURL = 'https://sinanthahir.github.io'
 languageCode = 'en-us'
 title = 'Sin(x)'
 theme = "hugo-theme-monochrome"
+disqusShortname = 'sinx-1'
 
 [build]
     writeStats = true
