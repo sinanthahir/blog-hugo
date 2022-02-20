@@ -117,7 +117,6 @@
       "mt-3",
       "mt-8",
       "mt-9",
-      "mx-auto",
       "my-1",
       "my-2",
       "my-3",
@@ -180,6 +179,7 @@
       "z-50"
     ],
     "ids": [
+      "-hello-world",
       "1-look-for-something-you-can-do-about-it",
       "2-determine-your-actually-going-to-do-something",
       "3-view-it-in-others-perspective",

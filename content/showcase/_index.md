@@ -1,5 +1,5 @@
 ---
-title: 'Works'
+title: 'Showcase'
 type: 'bookcase'
 menu: navbar
 ---

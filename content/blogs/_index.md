@@ -5,4 +5,4 @@ author = "Hugo Authors"
 menu = ["navbar"]
 +++
 
-Sharing some articles on roadmaps, project overview and tech perspectives.  
+Sharing some of my **learning notes**, *articles*, community **experiences**, talk and tech *perspectives*.  

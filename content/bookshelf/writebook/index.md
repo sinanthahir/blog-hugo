@@ -6,6 +6,7 @@ disqus: true
 
 ## Write a book: At least one in your lifetime.
 ### You’ll discover who you are; unless you’ve tried it.
+![undraw](undraw.svg)
 
 Living in this world with 7.8 Billion others, you hear that number; each individual with there own life story and putting each one’s creativeness forward to paper in your solace; can actually be a relief and thus a new writer is born.
 

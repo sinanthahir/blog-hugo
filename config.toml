@@ -66,9 +66,9 @@ tabWidth = 4
     url = "/bookshelf/"
     weight = 3
 [[navbar]]
-    identifier = "works"
-    name = "Works"
-    url = "/works/"
+    identifier = "showcase"
+    name = "Showcase"
+    url = "/showcase/"
     weight = 4
 [[navbar]]
     identifier = "blogs"
