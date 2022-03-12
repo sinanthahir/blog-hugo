@@ -30,15 +30,29 @@ Some day to day digital space triggers!
 ### Podcast
 Indeed, during daily commutes!
 
-* [Philosophize This! - Stephen West](https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE?si=7a70d692917c48af)
-* [On Purpose with Jay Shetty](https://open.spotify.com/show/5EqqB52m2bsr4k1Ii7sStc?si=abe29c86f8a7496c)
-* [100x Entrepreneur - Siddhartha Ahluwalia](https://open.spotify.com/show/73VanEvg9Rhp2SOOJPFaav)
-* [Masters in Business - Bloomberg](https://open.spotify.com/show/4vd6fOEkEw0F7nnqA4UmNu?si=33b498cc60d140bf)
-* [Indian Silicon Valley - Jivraj Singh Sachar](https://open.spotify.com/show/5HZ9y88I43ba7pO5S3K9nM)
-* [The Mallu Show - Rizwan Ramzan](https://open.spotify.com/show/0HwNbH4waHN5c3xaFr2TQO?si=444eb499c83c4258)
+* [Philosophize This! - Stephen West](https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE?si=7a70d692917c48af) : Warning, will get addicted after a episode. Best philosophy podcast in my opinion. Quick and to the point. 
+* [On Purpose with Jay Shetty](https://open.spotify.com/show/5EqqB52m2bsr4k1Ii7sStc?si=abe29c86f8a7496c) : After reading his book, i happened to go through his podcast. It has truly helped me to make sense of situations past and present.
+* [100x Entrepreneur - Siddhartha Ahluwalia](https://open.spotify.com/show/73VanEvg9Rhp2SOOJPFaav) : Great insight about current industry scenerio. If your wishing to build a firm, they share a well public knowledge on how they operate theres.
+* [Masters in Business - Bloomberg](https://open.spotify.com/show/4vd6fOEkEw0F7nnqA4UmNu?si=33b498cc60d140bf) : Just a gold mine of information, that to industry relevant.
+* [Indian Silicon Valley - Jivraj Singh Sachar](https://open.spotify.com/show/5HZ9y88I43ba7pO5S3K9nM) : Building the best startup of india, the mission is on, we need unicorns!
+* [The Mallu Show - Rizwan Ramzan](https://open.spotify.com/show/0HwNbH4waHN5c3xaFr2TQO?si=444eb499c83c4258) : Some local chit-chat, mallu vibe podcast. 
 
-### Favourite Anime & Series
+### Manga & Anime 
 
+- OG Naruto & Shippuden (Manga & Anime)
+- Fate Series 
+- Solo Leveling (Manga)
+- Code Geass
+- Attack on Titans
+- Wind Breaker (Manga)
+- Sword Art Online 
+
+### TV Series
+
+- Big Bang Theory (Netflix)
+- Suits (Netflix)
+- Dark (Netflix)
+- Game of Thrones (HBO)
 
 ## About the Site
 >> The site was built using [Hugo](https://gohugo.io/), [Tailwind CSS](https://tailwindcss.com/), [PrismJS](https://github.com/PrismJS/prism)  and deployed on [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#user--organization-pages). All the theme design development was done by [Kai Zheng](https://github.com/kaiiiz).

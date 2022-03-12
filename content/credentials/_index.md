@@ -1,5 +1,5 @@
 ---
-title: 'Timeline'
+title: 'Credentials'
 menu: navbar
 type: 'balloon'
 balloon_img_src: 'icons/itsme.jpg'
@@ -8,7 +8,9 @@ balloon_circle: true
 balloon_resources: "/flow"
 ---
 
-See, where i reached now. Have we meet before; from any of the place below, you can reach out and lets have a coffee together, 
+**You can find my credentials here or at my [LinkedIn](https://www.linkedin.com/in/sinanthahir/)**
+
+Reach out and lets have a coffee together, someday; you can connect me through: 
 {{< icon-group >}}
     {{< svg-wrapper name="twitter" link="https://twitter.com/sinanthahir"/>}}
     {{< svg-wrapper name="github" link="https://github.com/sinanthahir" />}}

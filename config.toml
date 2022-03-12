@@ -17,6 +17,7 @@ disqusShortname = 'sinx-1'
 
 [params]
     favicon = "/img/favicon.ico"
+    images = ['site-feature-image.png']
     footer = "Sinan Thahir © 2022"
     enableZoomingJS = true
     enableTOC = false
@@ -56,14 +57,14 @@ tabWidth = 4
     url = "/about/"
     weight = 1
 [[navbar]]
-    identifier = "timeline"
-    name = "Timeline"
-    url = "/timeline/"
+    identifier = "credentials"
+    name = "Credentials"
+    url = "/credentials/"
     weight = 2
 [[navbar]]
-    identifier = "bookshelf"
-    name = "Bookshelf"
-    url = "/bookshelf/"
+    identifier = "case-studies"
+    name = "Case Studies"
+    url = "/case-studies/"
     weight = 3
 [[navbar]]
     identifier = "showcase"
@@ -71,9 +72,9 @@ tabWidth = 4
     url = "/showcase/"
     weight = 4
 [[navbar]]
-    identifier = "blogs"
-    name = "Blogs"
-    url = "/blogs/"
+    identifier = "notes"
+    name = "Notes"
+    url = "/notes/"
     weight = 5
 [[navbar]]
     identifier = "nerd-stuff"

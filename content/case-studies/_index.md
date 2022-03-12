@@ -1,5 +1,5 @@
 ---
-title: 'Bookshelf'
+title: 'Case Studies'
 type: list
 menu: navbar
 ---

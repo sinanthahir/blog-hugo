@@ -1,6 +1,6 @@
 +++
 aliases = ["posts", "articles", "blog", "showcase", "docs"]
-title = "Blogs"
+title = "Notes"
 author = "Hugo Authors"
 menu = ["navbar"]
 +++
