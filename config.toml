@@ -62,9 +62,9 @@ tabWidth = 4
     url = "/credentials/"
     weight = 2
 [[navbar]]
-    identifier = "case-studies"
-    name = "Case Studies"
-    url = "/case-studies/"
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/blogs/"
     weight = 3
 [[navbar]]
     identifier = "showcase"

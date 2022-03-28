@@ -1,8 +1,8 @@
 +++
 aliases = ["posts", "articles", "blog", "showcase", "docs"]
 title = "Notes"
-author = "Hugo Authors"
+author = "Sinan Thahir"
 menu = ["navbar"]
 +++
 
-Sharing some of my **learning notes**, *articles*, community **experiences**, talk and tech *perspectives*.  
+Everything i pendown, from stories to daily marathon; to be precise a venting place for my thoughts.

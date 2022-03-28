@@ -15,6 +15,6 @@ Besides loving my job and my side hustle, I love to read books, play video games
 
 Apart from these, I had done remote work for event agencies, consulted for startups, and collaborated with talented people in creating  products for both business and consumer use as well as in research.
 
-> For more details about my education and my past experiences, take a look at my [timeline](/timeline) or [resume]().
+> For more details about my education and my past experiences, take a look at my [Credentials](/credentials) or [resume](/static/sinresume.pdf).
 
 ### 🐦 Stay up to date with me [@sinanthahir](https://twitter.com/sinanthahir)

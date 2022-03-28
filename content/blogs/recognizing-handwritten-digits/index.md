@@ -8,6 +8,7 @@ tags:
 - Scikit Learn
 - Analytics
 - Data Science
+- Case Studies
 ---
 
 ## Machine Learning for Recognizing Handwritten Digits

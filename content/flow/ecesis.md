@@ -1,6 +1,6 @@
 ---
 title: 'Research Analyst at Ecesis Technologies'
-weight: 1
+weight: 2
 ---
 
 First Job, First Experience; Joined [Ecesis Group](https://www.ecesistech.com/) Bpo Services based on Trivandrum, Kerala as a Research Analyst. 

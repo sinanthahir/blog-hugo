@@ -1,6 +1,6 @@
 ---
 title: 'Bachelor of Technology - Mechanical Engineering'
-weight: 2
+weight: 3
 ---
 
 In the amidst of pandemic, I had graduate from [Rajadhani Institute of Engineering and Technology](https://riet.edu.in/) (RIET) affiliated under  [APJ Abdul Kalam Technological University](https://ktu.edu.in/) with a Bachelor's in Technology specialized in Mechanical Engineering (2017-2021 batch). Truly it was one of the most remarkable time, as i had exposed to new experiences.

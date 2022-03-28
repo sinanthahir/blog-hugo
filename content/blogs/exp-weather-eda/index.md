@@ -7,6 +7,7 @@ tags:
 - EDA
 - Analytics
 - Data Science
+- Case Studies
 ---
 ## Experience Analysis through Weather Data : Exploratory Data Analysis
 
